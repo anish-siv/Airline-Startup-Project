@@ -1,4 +1,4 @@
-# <p style="text-align:center"> Project 1 – Airline Reward System </p>
+# Airline Reward System
 
 ### Project Background: 
 In December 2022, NorthEast Airlines cancelled most of its flights due to what they claimed was really bad weather. Upon further investigation, it turned out that the airline’s flight scheduling system had failed, due to an if statement block with two lines of code but no curly braces to
